@@ -1,14 +1,65 @@
-🎬 MovieBox — Modded APK
+<div align="center">
 
-A modded version of MovieBox with premium features unlocked for free.
+<img src="assets/IMG_20260522_195045.png" alt="MovieBox Logo" width="120" style="border-radius: 20px"/>
 
-✅ Mod Features:
-- 👑 Premium Unlocked
-- 🎯 All VIP Content Unlocked
-- 🎥 High Quality Unlocked
-- 🚫 No Ads
+# 🎬 MovieBox Mod
 
-📥 Download Feature:
-- Download anything directly to your phone storage
-- Grant storage permission after install
-- Files saved at: Downloads → MovieBox Folder
+**Premium Unlocked • No Ads • High Quality • Free Downloads**
+
+---
+
+[![Downloads](https://img.shields.io/github/downloads/koushik-01-exe/MovieBox-Mod-v5/total?style=for-the-badge&logo=android&logoColor=white&label=Total%20Downloads&color=FF4757)](https://github.com/koushik-01-exe/MovieBox-Mod-v5/releases/latest)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=koushik-01-exe.MovieBox-Mod-v5&style=for-the-badge&color=2ed573&label=Repo%20Visitors)](https://github.com/koushik-01-exe/MovieBox-Mod-v5)
+[![Download APK](https://img.shields.io/github/v/release/koushik-01-exe/MovieBox-Mod-v5?style=for-the-badge&logo=applearcade&logoColor=white&label=Download%20APK&color=1e90ff)](https://github.com/koushik-01-exe/MovieBox-Mod-v5/releases/latest/download/MovieBox.apk)
+
+</div>
+
+---
+
+## ✅ Mod Features
+
+| Feature | Status |
+|---|---|
+| 👑 Premium Unlocked | ✔️ |
+| 🎯 All VIP Content Unlocked | ✔️ |
+| 🎥 High Quality Unlocked | ✔️ |
+| 🚫 No Ads | ✔️ |
+
+---
+
+## 📥 Download Feature
+
+You can now download anything directly to your phone storage!
+
+- Grant **Storage Permission** after installing the app
+- All downloaded files are automatically saved at:
+
+```
+📁 Downloads → MovieBox Folder
+```
+
+---
+
+## 📸 Screenshots
+
+<div align="center">
+<img src="assets/Screenshot_20260522_223344.jpg" width="45%"/>
+&nbsp;&nbsp;
+<img src="assets/Screenshot_20260522_223349.jpg" width="45%"/>
+</div>
+
+---
+
+## ⚠️ Installation Guide
+
+1. Download the APK from the button above
+2. Enable **"Install from Unknown Sources"** in settings
+3. Install the APK
+4. Open app → Grant **Storage Permission**
+5. Enjoy! ✨
+
+---
+
+<div align="center">
+<sub>Made with ❤️ by <a href="https://github.com/koushik-01-exe">koushik-01-exe</a></sub>
+</div>
